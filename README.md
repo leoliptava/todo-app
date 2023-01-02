@@ -9,7 +9,7 @@ https://todo.leofelipe.com.br/
 Clone o projeto
 
 ```bash
-  git clone
+  git clone https://github.com/leoliptava/todo-app.git
 ```
 
 Entre no diretório do projeto
