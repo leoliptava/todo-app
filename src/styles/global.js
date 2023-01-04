@@ -12,7 +12,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background-color: #ffeaa7;
+    background-color: #1e1e1e;
     user-select: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: antialiased;
@@ -68,7 +68,7 @@ export default createGlobalStyle`
   }
 
   .title {
-    color: #fab1a0;
+    color: #fff;
     font-size: 64px;
     font-weight: 100;
     text-align: center;

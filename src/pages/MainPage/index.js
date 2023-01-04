@@ -32,7 +32,7 @@ const Main = () => {
   return (
     <section id="app" className="container">
       <header>
-        <h1 className="title">ToDo App</h1>
+        <h1 className="title">To-Do App</h1>
       </header>
       <section className="main">
         <NewToDo onNewToDo={onNewToDo} />
